@@ -2,3 +2,4 @@ datapane
 sklearn
 bs4
 geopy
+nbgitpuller
